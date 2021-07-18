@@ -1,0 +1,26 @@
+body {
+    background-image: url(../img/IMGfavorita002-5872353.jpg);
+  /* background-image: url(../img/imagem007favori.png); */  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+/*    background-image: url(../img/backgroundImg.jpg);
+*/
+.credit {
+    background: rgba(0, 0, 0, 0.75);
+    font-size: 1.3em;
+    color: whitesmoke;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+.credit a {
+    color: turquoise;
+    transition: 1s;
+}
+
+.credit a:hover {
+    color: white;
+    text-shadow: 0 0 8px white;
+}
